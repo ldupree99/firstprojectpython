@@ -1,0 +1,16 @@
+/*Beginning of css*/
+
+h1 {
+    color: #333366;
+}
+
+p{
+    background-color:  #333366;
+    color: white;
+    width: 60%;
+    line-height: 4.0;
+    padding: 50px 0px 0px 50px; /*Top Right Bottom Left*/
+    margin: 50px 0px 0px 50px; /*Top Right Bottom Left*/
+    font-size: large;
+
+}
